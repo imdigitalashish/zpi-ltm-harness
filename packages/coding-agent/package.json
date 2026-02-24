@@ -1,6 +1,6 @@
 {
 	"name": "@imdigitalashish/zpi",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "Memory-augmented coding agent with persistent learning across sessions. Built on pi.",
 	"type": "module",
 	"piConfig": {
